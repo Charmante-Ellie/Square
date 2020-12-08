@@ -33,7 +33,7 @@ Square has an offline feature which allows clerks to accept payments even if the
 
 
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/41A5YPPFxDL._AC_SY400_.jpg"Logo Title Text 1")
+![alt text](https://www.images-na.ssl-images-amazon.com/images/I/41A5YPPFxDL._AC_SY400_.jpg"Logo Title Text 1")
 
 
 ### Landscape: 
