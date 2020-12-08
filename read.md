@@ -3,29 +3,29 @@
 ![alt text](https://www.channelfutures.com/files/2014/04/squarelogo_0-877x432.jpg "Logo Title Text 1")
 
 
-### * Company name : Square 
+## Company name : Square 
 
-### * The company was formed in February 2009 in St Louis, Missouri. 
+### The company was formed in February 2009 in St Louis, Missouri. 
 
-### * The founders are Jack Dorsey, Jim McKelvey and Tristan O'Tierney. 
+### The founders are Jack Dorsey, Jim McKelvey and Tristan O'Tierney. 
 
 
 
 #### How it all started:
 
-* The Idea for the company was launched when Jack Dorsey friend Jim Mckelvey was unable to accept a 2000 $ credit card  payment  for one of his glass faucets and fittings. That’s when the Idea for Square started to brew. “Jim McKelvey (co-founder of Square) was in an art fair and couldn’t sell a piece of glass because he couldn’t accept a credit card; so that was $2,000 lost.”
+The Idea for the company was launched when Jack Dorsey friend Jim Mckelvey was unable to accept a 2000 $ credit card  payment  for one of his glass faucets and fittings. That’s when the Idea for Square started to brew. “Jim McKelvey (co-founder of Square) was in an art fair and couldn’t sell a piece of glass because he couldn’t accept a credit card; so that was $2,000 lost.”
  – Jack Dorsey  stated. 
 
 
 #### Company fundings and investors:
 
-* Although,the amount of money that  was invested into this company wasn’t divulged we can say that it was a pretty hefty sum. One of the founders already held alot weight to his name. Jack Dorsey was already attached to a successful global social media platform called Twitter. M.dorsey swaeyed inverstor in an unconventional manner. Instead of saying all the reasons why this company would be a huge success he underlined why it would plummet  or better yet stated and I quote “140 reasons why Square will fail”. This pitch was thoroughly thought out to the point where major players in the tech world and a credit card provider  were in awe. Apple and Visa had no problem consigning this new adventure to help water these entrepreneurs' amazing idea. 
+Although,the amount of money that  was invested into this company wasn’t divulged we can say that it was a pretty hefty sum. One of the founders already held alot weight to his name. Jack Dorsey was already attached to a successful global social media platform called Twitter. M.dorsey swaeyed inverstor in an unconventional manner. Instead of saying all the reasons why this company would be a huge success he underlined why it would plummet  or better yet stated and I quote “140 reasons why Square will fail”. This pitch was thoroughly thought out to the point where major players in the tech world and a credit card provider  were in awe. Apple and Visa had no problem consigning this new adventure to help water these entrepreneurs' amazing idea. 
 
 
 
 ### Business Activities:
 
-* Square is a mobile payment processor company, it  was created to help merchants that are established , beginning or even seasonal. Square facilitates the process of accepting payments with ease by using one of their portable adapters. Square main competitor would be paypal. 
+Square is a mobile payment processor company, it  was created to help merchants that are established , beginning or even seasonal. Square facilitates the process of accepting payments with ease by using one of their portable adapters. Square main competitor would be paypal. 
 
 ### What makes Square the better choice? 
 
@@ -33,7 +33,7 @@ Square has an offline feature which allows clerks to accept payments even if the
 
 
 
-![alt text](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HMFS2_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1553642841050"Logo Title Text 1")
+![image](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HMFS2_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1553642841050.png)
 
 
 ### Landscape: 
