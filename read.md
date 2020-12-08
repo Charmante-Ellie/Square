@@ -1,6 +1,6 @@
 #  Choosing The Square life 
 
-![alt text](https://images.app.goo.gl/66UbYG1CbaYwKjSL9.jpg "Logo Title Text 1")
+![alt text](https://www.channelfutures.com/files/2014/04/squarelogo_0-877x432.jpg "Logo Title Text 1")
 
 
 ### * Company name : Square 
@@ -33,7 +33,7 @@ Square has an offline feature which allows clerks to accept payments even if the
 
 
 
-![alt text](https://images.app.goo.gl/pCzr48GQnbPyv5KS7.jpg "Logo Title Text 1")
+![alt text](https://images-na.ssl-images-amazon.com/images/I/41A5YPPFxDL._AC_SY400_.jpg"Logo Title Text 1")
 
 
 ### Landscape: 
