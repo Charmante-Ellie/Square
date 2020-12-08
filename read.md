@@ -33,7 +33,7 @@ Square has an offline feature which allows clerks to accept payments even if the
 
 
 
-![alt text](https://www.images-na.ssl-images-amazon.com/images/I/41A5YPPFxDL._AC_SY400_.jpg"Logo Title Text 1")
+![alt text](https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HMFS2_AV4?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1553642841050"Logo Title Text 1")
 
 
 ### Landscape: 
@@ -59,6 +59,7 @@ Square should offer an already established & small  business owner a 1 month fre
 |------------------------| 
 
 ***Source Links*** : 
+
 [Square](https://squareup.com/ca/en)
 
 [Growth Hackers](https://growthhackers.com/growth-studies/square)
